@@ -473,13 +473,13 @@ Then check for status
 
 **git** status
 
-![ref1]![A screenshot of a computer Description automatically generated](Aspose.Words.f5cedd36-5a52-4071-846f-427a178b3d13.013.png)
+![ref1]![A screenshot of a computer Description automatically generated](Releases.jpg)
 ### ` `**<a name="_toc171628859"></a>Check config files :**
 **less** meta-poky/conf/distro/poky.conf
 
 Check SANITY\_TESTED\_DISTROS make sure you work on one of them to avoid errors
 
-![ref1]![A screenshot of a computer program Description automatically generated](Aspose.Words.f5cedd36-5a52-4071-846f-427a178b3d13.014.png)
+![ref1]![A screenshot of a computer program Description automatically generated](Distribution.jpg)
 
 Our virtual machine is ubunto-20.04 so we are safe
 
