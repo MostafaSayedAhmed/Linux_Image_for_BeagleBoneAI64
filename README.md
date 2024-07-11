@@ -795,4 +795,3 @@ Useful Linux command mostly used :
 
 2
 
-[ref1]: Aspose.Words.f5cedd36-5a52-4071-846f-427a178b3d13.012.png
