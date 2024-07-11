@@ -373,7 +373,8 @@ qemu-system-x86\_64 \
 
   ![](Aspose.Words.f5cedd36-5a52-4071-846f-427a178b3d13.009.png)
 
-- ![](Aspose.Words.f5cedd36-5a52-4071-846f-427a178b3d13.010.png)Meta-data folders consists of all layers needed in our project
+  ![](Aspose.Words.f5cedd36-5a52-4071-846f-427a178b3d13.010.png)
+- Meta-data folders consists of all layers needed in our project
 - OE is essentially a database of these recipe (.bb) and configuration (.conf) files that developers can draw on to cross-compile combinations of components for a variety of embedded platforms.
 - recipe knows where to access the source for a package, how to build it for a particular target, and ensures that a package’s dependencies are all built as well, relieving developers of the need to understand every piece of software required to add a particular capability to their application.
 - ` `The advantage of using an existing distribution is that it will often be necessary to select certain package versions to get a working combination. Distributions address this key function. They often provide a ‘stable’ build in addition to a ‘latest’ build to avoid the inherent instabilities that come from trying to combine the latest versions of everything.
