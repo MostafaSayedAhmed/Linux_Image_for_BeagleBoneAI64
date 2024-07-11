@@ -1,28 +1,4 @@
-![A logo of a university Description automatically generated](Aspose.Words.f5cedd36-5a52-4071-846f-427a178b3d13.001.png)
-
-![A blue and pink letters on a black background Description automatically generated](Aspose.Words.f5cedd36-5a52-4071-846f-427a178b3d13.002.png)
-
-
-
-
-Linux Image
-
-Graduation Project 
-
-
-Written By Mostafa Sayed Ahmed Taha Ahmed
-
-
-
-
-
-
-
-
-
-Sponsored by EJAD
-
-Under Supervision of Dr. Aida Shafie
+[title][Linux Image]
 # Contents
 [**Theoretical Background:**	3](#_toc171628834)
 
