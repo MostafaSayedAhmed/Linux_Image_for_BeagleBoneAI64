@@ -1,6 +1,4 @@
-![A logo of a university
-
-Description automatically generated](Aspose.Words.f5cedd36-5a52-4071-846f-427a178b3d13.001.png)
+![A logo of a university Description automatically generated](Aspose.Words.f5cedd36-5a52-4071-846f-427a178b3d13.001.png)
 
 ![A blue and pink letters on a black background
 
