@@ -1,8 +1,6 @@
 ![A logo of a university Description automatically generated](Aspose.Words.f5cedd36-5a52-4071-846f-427a178b3d13.001.png)
 
-![A blue and pink letters on a black background
-
-Description automatically generated](Aspose.Words.f5cedd36-5a52-4071-846f-427a178b3d13.002.png)
+![A blue and pink letters on a black background Description automatically generated](Aspose.Words.f5cedd36-5a52-4071-846f-427a178b3d13.002.png)
 
 
 
@@ -297,9 +295,7 @@ sudo apt-get install libncurses5-dev libncursesw5-dev
 
 1. Check configs specs
 
-   ![A screenshot of a computer program
-
-Description automatically generated](Aspose.Words.f5cedd36-5a52-4071-846f-427a178b3d13.003.png)
+![A screenshot of a computer program Description automatically generated](Aspose.Words.f5cedd36-5a52-4071-846f-427a178b3d13.003.png)
 
 1. To get your config file use
 
@@ -311,21 +307,15 @@ make menuconfig
 
 Note : error may occur if ncurse library isn’t installed 
 
-![A screenshot of a computer
-
-Description automatically generated](Aspose.Words.f5cedd36-5a52-4071-846f-427a178b3d13.004.png)
+![A screenshot of a computer Description automatically generated](Aspose.Words.f5cedd36-5a52-4071-846f-427a178b3d13.004.png)
 
 Our beagle bone ai 64 is with processor cortex-A72
 
-![A computer screen shot of a computer
-
-Description automatically generated](Aspose.Words.f5cedd36-5a52-4071-846f-427a178b3d13.005.png)
+![A computer screen shot of a computer Description automatically generated](Aspose.Words.f5cedd36-5a52-4071-846f-427a178b3d13.005.png)
 
 Configuration of tool chain needed
 
-![A screen shot of a computer
-
-Description automatically generated](Aspose.Words.f5cedd36-5a52-4071-846f-427a178b3d13.006.png)
+![A screen shot of a computer Description automatically generated](Aspose.Words.f5cedd36-5a52-4071-846f-427a178b3d13.006.png)
 
 Some custom image
 
@@ -396,13 +386,9 @@ qemu-system-x86\_64 \
 
 `    `-nographic
 ## <a name="_toc171628852"></a>**ii. Yocto**
-![A white and black text on a white background
+![A white and black text on a white background Description automatically generated](Aspose.Words.f5cedd36-5a52-4071-846f-427a178b3d13.007.png)
 
-Description automatically generated](Aspose.Words.f5cedd36-5a52-4071-846f-427a178b3d13.007.png)
-
-![A diagram of a software development
-
-Description automatically generated](Aspose.Words.f5cedd36-5a52-4071-846f-427a178b3d13.008.png)
+![A diagram of a software development Description automatically generated](Aspose.Words.f5cedd36-5a52-4071-846f-427a178b3d13.008.png)
 ### <a name="_toc171628853"></a>**Therotical Knowledge**
 - Poky is the Yocto Project reference distribution. It contains the [Open-Embedded build system](http://www.yoctoproject.org/docs/2.5/ref-manual/ref-manual.html#build-system-term) (BitBake and OE-Core) as well as a set of metadata to get you started building your own distribution.
 - Poky is a base specification of the functionality needed for a typical embedded system as well as the components from the Yocto Project that allow you to build a distribution into a usable binary image.
@@ -510,23 +496,17 @@ Then check for status
 
 **git** status
 
-![ref1]![A screenshot of a computer
-
-Description automatically generated](Aspose.Words.f5cedd36-5a52-4071-846f-427a178b3d13.013.png)
+![ref1]![A screenshot of a computer Description automatically generated](Aspose.Words.f5cedd36-5a52-4071-846f-427a178b3d13.013.png)
 ### ` `**<a name="_toc171628859"></a>Check config files :**
 **less** meta-poky/conf/distro/poky.conf
 
 Check SANITY\_TESTED\_DISTROS make sure you work on one of them to avoid errors
 
-![ref1]![A screenshot of a computer program
-
-Description automatically generated](Aspose.Words.f5cedd36-5a52-4071-846f-427a178b3d13.014.png)
+![ref1]![A screenshot of a computer program Description automatically generated](Aspose.Words.f5cedd36-5a52-4071-846f-427a178b3d13.014.png)
 
 Our virtual machine is ubunto-20.04 so we are safe
 
-![A screenshot of a computer
-
-Description automatically generated](Aspose.Words.f5cedd36-5a52-4071-846f-427a178b3d13.015.png)
+![A screenshot of a computer Description automatically generated](Aspose.Words.f5cedd36-5a52-4071-846f-427a178b3d13.015.png)
 ### <a name="_toc171628860"></a>**Choosing criteria:**
 we want the yocto release to line up with poky reference distribution
 
@@ -573,9 +553,7 @@ video about arago distribution (<https://www.ti.com/video/3872288001001#transcri
 
 <https://www.youtube.com/watch?v=sGzmfkItVrA> 
 
-![A screenshot of a computer
-
-Description automatically generated](Aspose.Words.f5cedd36-5a52-4071-846f-427a178b3d13.016.png)
+![A screenshot of a computer Description automatically generated](Aspose.Words.f5cedd36-5a52-4071-846f-427a178b3d13.016.png)
 
 **Clone the Layer:** Use Git to make a local copy of the layer on your machine. You can put the copy in the top level of the copy of the Poky repository created earlier
 
