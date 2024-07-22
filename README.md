@@ -727,8 +727,7 @@ Linux uses DT data for three major purposes:
 1. platform identification,
 1. runtime configuration, and
 1. device population.
-## <a name="_toc171628871"></a>Platform Identification
-First and foremost, the kernel will use data in the DT to identify the specific machine. In a perfect world, the specific platform shouldn’t matter to the kernel because all platform details would be described perfectly by the device tree in a consistent and reliable manner. Hardware is not perfect though, and so the kernel must identify the machine during early boot so that it has the opportunity to run machine-specific fixups.
+
 # <a name="_toc171628872"></a>Apendix:
 \- Dealing with txt file in terminal command window : <https://www.makeuseof.com/vim-vi-delete-line/#:~:text=Highlight%20the%20line%20you%20want,several%20lines%20one%20by%20one>. 
 
@@ -789,9 +788,7 @@ Useful Linux command mostly used :
 |read variable|Take input from user|
 |Bash test.sh|Run script|
 |touch filename.extension|Create file|
-|||
-|||
-|||
+
 
 2
 
