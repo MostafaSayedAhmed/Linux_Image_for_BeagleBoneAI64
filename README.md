@@ -790,5 +790,3 @@ Useful Linux command mostly used :
 |touch filename.extension|Create file|
 
 
-2
-
